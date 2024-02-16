@@ -1,0 +1,12 @@
+2024/02/16 main.go:16: Hello World
+INFO :2024/02/16 21:41:15 main.go:22: This is info log
+WARN :2024/02/16 21:41:15 main.go:23: This is warn log
+ERROR :2024/02/16 21:41:15 main.go:24: This is error log
+2024/02/16 main.go:16: Hello World
+INFO :2024/02/16 21:41:22 main.go:22: This is info log
+WARN :2024/02/16 21:41:22 main.go:23: This is warn log
+ERROR :2024/02/16 21:41:22 main.go:24: This is error log
+2024/02/16 main.go:21: Hello World
+INFO :2024/02/16 21:50:55 main.go:27: This is info log
+WARN :2024/02/16 21:50:55 main.go:28: This is warn log
+ERROR :2024/02/16 21:50:55 main.go:29: This is error log
